@@ -17,3 +17,4 @@ to pull the changes from remote repository to local repository
 git pull
 
 ```
+for git repositiory
